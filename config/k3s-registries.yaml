@@ -1,0 +1,7 @@
+mirrors:
+  "docker.io":
+    endpoint:
+      - "http://registry-docker-io:5000"
+  "registry.k8s.io":
+    endpoint:
+      - "http://registry-k8s-io:5000"
